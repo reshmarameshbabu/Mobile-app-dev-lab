@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="martial_array">
+        <item>married</item>
+        <item>single</item>
+
+    </string-array>
+</resources>
